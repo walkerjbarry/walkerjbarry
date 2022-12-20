@@ -2,7 +2,8 @@
 - 👀 As a Front End Developer, I spend a great deal of time creating, 
 troubleshooting, and maintaining (WCAG-compliant) web resources.  
 My current work supports teachers and students, and is very satisfying. 
-I'm intellectually curious, enthusiastic, really love learning, and love supporting my fellow career - switchers! 
+I'm intellectually curious, enthusiastic, really love learning, 
+love the tech community, and love supporting my fellow (tech) professionals! 
 - 
 - 📫 Feel free to reach out and connect! 
 - walker.j.barry@protonmail.com
