@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walkerjbarry
-- 👀 I work as a Web Developer for an organization based in education. I spend a great deal of time creating, 
+- 👀 As a Front End Developer, I spend a great deal of time creating, 
 troubleshooting, and maintaining (WCAG-compliant) web resources.  
-My work supports teachers and students, and is very satisfying. 
+My current work supports teachers and students, and is very satisfying. 
 I'm intellectually curious, enthusiastic, really love learning, and love supporting my fellow career - switchers! 
 - 
 - 📫 Feel free to reach out and connect! 
